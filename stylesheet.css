@@ -1083,7 +1083,7 @@ audio {
 	width: 100px;
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 100px 183px;
+	background-size: 80px 163px;
 }
 .balloons h2 {
 	text-transform: uppercase;
@@ -1119,6 +1119,15 @@ audio {
 }
 #b9,#b99{
 	background-image: url('b4.png');
+}
+#b10,#b100{
+	background-image: url('b3.png');
+}
+#b21,#b110{
+	background-image: url('b1.png');
+}
+#b22,#b120{
+	background-image: url('b5.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
